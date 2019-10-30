@@ -5,7 +5,9 @@ function LinkedSuperList() {
 LinkedSuperList.prototype = Object.create(LinkedList.prototype);
 LinkedSuperList.prototype.constructor = LinkedSuperList;
 
-LinkedSuperList.prototype.map = function() {};
+LinkedSuperList.prototype.map = function() {
+
+};
 LinkedSuperList.prototype.reduce = function() {};
 LinkedSuperList.prototype.reverse = function() {
     let tmp = this.root;

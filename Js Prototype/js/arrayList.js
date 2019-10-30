@@ -96,4 +96,8 @@ ArrayList.prototype.setSize = function(value) {
     this.size = value;
 };
 
+ArrayList.prototype.map = function(){};
+ArrayList.prototype.reverse = function(){};
+ArrayList.prototype.reduce = function(){};
+
 const arrayList = new ArrayList();

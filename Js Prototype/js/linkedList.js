@@ -107,7 +107,6 @@ LinkedList.prototype.toString = function() {
     str = str.substring(0, str.length - 2);
     return str;
 };
-
 LinkedList.prototype.createNode = function(el) {
     return {
         el : el ? el : null,
@@ -116,5 +115,9 @@ LinkedList.prototype.createNode = function(el) {
         index : this.root.length,
     }
 };
+
+LinkedList.prototype.map = function(){};
+LinkedList.prototype.reverse = function(){};
+LinkedList.prototype.reduce = function(){};
 
 const linkedList = new LinkedList();
