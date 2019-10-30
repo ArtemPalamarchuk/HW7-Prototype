@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04bb660b-174d-468d-834a-3689507f8649" name="Default Changelist" comment="" />
+    <list default="true" id="e61193b2-24a3-4fe4-a5f8-93a2f920bae5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,12 +9,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1SntI6GIkKSKlsCZIUy4mEDAJv2" />
+  <component name="ProjectId" id="1SvRJ3QZg6hNPq6AedwRzxJZenr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -33,15 +34,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="04bb660b-174d-468d-834a-3689507f8649" name="Default Changelist" comment="" />
-      <created>1572211105006</created>
+      <changelist id="e61193b2-24a3-4fe4-a5f8-93a2f920bae5" name="Default Changelist" comment="" />
+      <created>1572442007865</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572211105006</updated>
-      <workItem from="1572211106384" duration="5894000" />
-      <workItem from="1572250186760" duration="4138000" />
-      <workItem from="1572441781145" duration="61000" />
-      <workItem from="1572454803031" duration="5988000" />
+      <updated>1572442007865</updated>
+      <workItem from="1572442010989" duration="8992000" />
     </task>
     <servers />
   </component>
@@ -53,9 +51,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
