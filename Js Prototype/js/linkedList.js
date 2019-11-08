@@ -119,5 +119,3 @@ LinkedList.prototype.createNode = function(el) {
 LinkedList.prototype.map = function(){};
 LinkedList.prototype.reverse = function(){};
 LinkedList.prototype.reduce = function(){};
-
-const linkedList = new LinkedList();

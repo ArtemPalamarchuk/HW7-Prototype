@@ -1,5 +1,3 @@
-const arrayList = new ArrayList();
-
 describe('Array list', function () {
 	beforeEach(function () {
         arrayList.clear();
@@ -85,8 +83,6 @@ describe('Array list', function () {
 	})
 
 });
-
-const linkedList = new LinkedList();
 
 describe('Linked list', function () {
 	beforeEach(function () {

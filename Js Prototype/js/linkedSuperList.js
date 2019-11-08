@@ -47,7 +47,3 @@ LinkedSuperList.prototype.reverse = function() {
     return linkedSuperList;
 
 }
-
-const linkedSuperList = new LinkedSuperList();
-
-

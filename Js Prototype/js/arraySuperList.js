@@ -25,5 +25,3 @@ ArraySuperList.prototype.reverse = function(array) {
     }
     return this.array;
 };
-
-const arraySuperList = new ArraySuperList();

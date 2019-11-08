@@ -1,5 +1,3 @@
-console.log("Hi there!!!")
-
 function List() {}
 
 List.prototype.pop = function() {};
